@@ -1,0 +1,26 @@
+body{
+    height: 85vh;
+    width: 90%;
+    position: relative;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    padding: 50px;
+    justify-content:flex-end;
+    font-style: italic;
+    font-family:sans-serif;
+    font-weight: 10px;
+    font-size: 25px;
+    color: rgb(222, 180, 43);
+}
+
+.container{
+    font-size:25px;
+    color: rgb(68, 193, 212);
+}
+ 
+.a{
+    list-style:lower-roman;
+    color: rgb(rgb(231, 24, 24))
+}

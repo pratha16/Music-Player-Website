@@ -1,0 +1,17 @@
+body{
+    height: 98vh;
+    width: 99%;
+    background-image: url(c.jpg);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+}
+
+.container{
+
+    height: 98vh;
+    width: 99;
+    justify-content: center;
+    color: bisque;
+    text-decoration-color: bisque;
+}
